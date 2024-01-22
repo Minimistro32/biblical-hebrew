@@ -40,7 +40,7 @@ Hebrew was originally written with just consonants. Some consonants change shape
 |שׁ||Shin|sh|
 |ש||Sin|s|
 |ת||Tav|t|
-> 🧠: Several characters are easily confused, memorizing the distinctions helps.
+> 🧠: Several characters are easily confused. Memorizing the distinctions helps.
 > 
 > ||||Distinction|
 > |-|-|-|-|
