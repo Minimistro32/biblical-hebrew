@@ -17,7 +17,7 @@ Hebrew was originally written with just consonants. Some consonants change shape
 |א||Alef|silent|
 |בּ||Bet|b|
 |ב||Vet|v|
-|ג||Gimmel|g|
+|ג||Gimel|g|
 |ד||Dalet|d|
 |ה||He|h|
 |ו||Vav|v|
@@ -40,18 +40,32 @@ Hebrew was originally written with just consonants. Some consonants change shape
 |שׁ||Shin|sh|
 |ש||Sin|s|
 |ת||Tav|t|
+> 🧠: Several characters are easily confused. Begin by memorizing what distinguishes similar consonants.
+> 
+> ||||Distinction|
+> |-|-|-|-|
+> |Vet&emsp; ב|Kaf&emsp; כ||Vet is two strokes, which creates a tittle in the bottom right.|
+> |Dalet&emsp; ד|Resh&emsp; ר||Dalet is two strokes, which creates a tittle in the top right.|
+> |Vav&emsp; ו|Zayin&emsp; ז||Zayin comes across the line.|
+> |Gimel&emsp; ג|Nun&emsp; נ||Gimel has a foot.|
+> |Tet&emsp; ט|Mem&emsp; מ||Tet has an open top.|
+> |Ayin&emsp; ע|Tsade&emsp; צ||Ayin is written like a 'y'; Tsade like an 's'.|
+> |Sin&emsp; ש|Shin&emsp; שׁ||Sin puts us on the left hand of God, like the dot.|
+> |He&emsp; ה|Chet&emsp; ח|Tav&emsp; ת|He has a gap, Chet fills it out, Tav has a foot.|
+> |Mem Sofit&emsp; ם|Samek&emsp; ס||Samek is rounded.|
+
 
 ## Vowels
 Vowels were pointed underneath the consonants after the fact by the Masoretes. The circles represent any consonant. Qamets and Qamets Hatuf are visually identical; however, Qamets Hatuf is rare. It is presumed that anciently long and short vowels were pronounced differently. This audible distinction can be ignored today, but knowing long and short vowels is important for future grammar.
-> Mnemonic: The dominant sound within the name is the sound of the vowel. <br>
-> Mnemonic: All the vowel consonants are long. 
+> 🧠: The dominant sound within the name is the sound of the vowel. <br>
+> 🧠: All the vowel consonants are long. 
 
 |Short<br>(Name)|Long<br>(Name)|Sound|Transliteration|
 |-|-|-|-|
 |◌ַ<br>`Patah`|◌ָ<br>`Qamets`|ah|a|
 |◌ֶ<br>`Segol`|◌ֵ<br>`Tsere`|eh|e|
 |◌ִ<br>`Hiriq`|י◌ִ<br>`Hiriq Yod`|ee|i|
-|◌ָ<br>`Qamets Hatuf`|◌ֹ/וֹ<br>`Holem (Vav)`|oh|o|
+|◌ָ<br>`Qamets Hatuf`|◌ֹ / וֹ<br>`Holem (Vav)`|oh|o|
 |◌ֻ<br>`Qibbuts`|וּ<br>`Shureq Vav`|oo|u|
 
 ## Noun/Adjective Endings
@@ -64,6 +78,11 @@ This following image demonstrate the difference between the construct and absolu
 ![Construct Chain Example](https://hebrew4christians.com/Grammar/Unit_Four/The_Construct_Relation/mpconstructexamples1.gif)
 
 Focus on the last example. The `maqqeph` (dash) has no pronounciation and simply connects related words. Notice how horse (סוס) changes from `iym` (abs., masc., pl.) to `eh` (cons., masc., pl.). Also note that translations can use apostrophe "s" or "of" without misrepresenting the Hebrew.
+
+> 🧠: The feminine singular sound is 'ah', which is common to romance languages.<br>
+> 🧠: In Hebrew, ה often changes to ת. <br>
+> 🧠: The masculine plural sound is 'iym' as in Elohim, which you may find familiar. It can literally translate to gods, but is often used as a [plural of majesty](https://en.wikipedia.org/wiki/Royal_we). <br>
+> 🧠: The dual sound is 'ah' + 'iym' or 'ayim', and could be thought of as combining fem. and masc. into a complete couple.
 
 ||Masculine||Feminine||
 |-|-|-|-|-|
