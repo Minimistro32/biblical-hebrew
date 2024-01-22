@@ -1,11 +1,11 @@
 # Biblical Hebrew
-#### Tips to the Reader
-[How to Type Hebrew](https://chioulaoshi.org/BH/typing.html)
+**Tips for Reading**
 
 > 🧠: Memory devices, called Mnemonics, are marked as shown here.
 
-`Vocabulary` is marked as shown here
+`Vocabulary` is marked as shown here.
 
+[How to Type Hebrew](https://chioulaoshi.org/BH/typing.html)
 
 ## Alphabet
 Hebrew was originally written with just consonants. Some consonants change shape when appearing as the final consonant of a word. These are called `sofit`. Several sounds are repeated. The `dagesh` (dot) indicates [plosive](https://en.wikipedia.org/wiki/Plosive) sounds. Every 'ch' is guttural as in Ba*ch*. Hebrew is read right to left.
@@ -56,9 +56,9 @@ Hebrew was originally written with just consonants. Some consonants change shape
 
 
 ## Vowels
-Vowels were pointed underneath the consonants after the fact by the Masoretes. The circles represent any consonant. Qamets and Qamets Hatuf are visually identical; however, Qamets Hatuf is rare. It is presumed that anciently long and short vowels were pronounced differently. This audible distinction can be ignored today, but knowing long and short vowels is important for future grammar.
-> 🧠: The dominant sound within the name is the sound of the vowel. <br>
-> 🧠: All the vowel consonants are long. 
+Vowels were pointed underneath the consonants after the fact by the Masoretes. The circles represent any consonant. Qamets and Qamets Hatuf are visually identical; however, Qamets Hatuf is rare. It is presumed that anciently long and short vowels were pronounced differently. This audible distinction can be ignored today, but knowing long and short vowels will be important for future grammar.
+> 🧠: The dominant vowel within every name, except Qamets Hatuf, is the sound that vowel makes (e.g., p**A**tah, ts**E**re, hir**I**q, h**O**lem, qibb**U**ts). <br>
+> 🧠: All the consonant vowels are long. 
 
 |Short<br>(Name)|Long<br>(Name)|Sound|Transliteration|
 |-|-|-|-|
@@ -69,7 +69,7 @@ Vowels were pointed underneath the consonants after the fact by the Masoretes. T
 |◌ֻ<br>`Qibbuts`|וּ<br>`Shureq Vav`|oo|u|
 
 ## Noun/Adjective Endings
-Nouns and adjectives agree in gender and number. Various endings express this agreement, including a set of `common` (agreeing for male and female) endings to represent two things. These dual agreements are commmonly used for things like body parts, of which there are two.
+Nouns and adjectives agree in gender and number. Various endings express this agreement, including a set of `common` (agreeing for male and female) endings to represent two things. These `dual` agreements are commmonly used for things like body parts, of which there are two.
 
 Nouns can be chained together using construct endings. The chain always ends with one absolute noun, and *constructs* a single idea. The final construction, or `construct chain`, indicates possession. The final, absolute noun, is used to determine if the entire phrase is indefinite or definite (uses a/an or the).
 
