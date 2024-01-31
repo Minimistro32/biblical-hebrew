@@ -111,7 +111,9 @@ Some conjugations are `common` and only have one entry shown (e.g., the 1st pers
 > 🧠: All imperfect conjugations have at least a prefix. "Imperfect aren't perfect, so they need a prefix."<br>
 > 🧠: וּ ,נ, and ◌ֶ are always plural.<br>
 > 🧠: נ is always at least feminine (could be common, see 1st person plural).<br>
-> 🧠: Perfect 3rd person singular is the same as the absolute singular noun endings.
+> 🧠: First person is common.<br>
+> 🧠: Perfect 3rd person singular is the same as the absolute singular noun endings.<br>
+
 
 #### Perfect
 ||Singular||Plural||
