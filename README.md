@@ -68,7 +68,7 @@ Vowels were pointed underneath the consonants after the fact by the Masoretes. T
 |◌ָ<br>`Qamets Hatuf`|◌ֹ / וֹ<br>`Holem (Vav)`|oh|o|
 |◌ֻ<br>`Qibbuts`|וּ<br>`Shureq Vav`|oo|u|
 
-## Noun/Adjective Endings
+## Noun and Adjective Endings
 Nouns and adjectives agree in gender and number. Various endings express this agreement, including a set of `common` (agreeing for male and female) endings to represent two things. These `dual` agreements are commmonly used for things like body parts, of which there are two.
 
 Nouns can be chained together using construct endings. The chain always ends with one absolute noun, and *constructs* a single idea. The final construction, or `construct chain`, indicates possession. The final, absolute noun, is used to determine if the entire phrase is indefinite or definite (uses a/an or the).
@@ -90,3 +90,35 @@ Focus on the last example. The `maqqeph` (dash) has no pronounciation and simply
 |**Singular**|◌ ◌ ◌|◌ ◌ ◌|ה◌ָ<sub><sup> ◌ ◌</sup></sub><br>`ah`|ת◌ַ<sub><sup> ◌ ◌</sup></sub><br>`at`|
 |**Plural**|ים◌ִ<sub><sup> ◌ ◌</sup></sub><br>`iym`|י◌ֵ<sub><sup> ◌ ◌</sup></sub><br>`eh`|וֹת<sub><sup> ◌ ◌ ◌</sup></sub><br>`ot`|וֹת<sub><sup> ◌ ◌ ◌</sup></sub><br>`ot`|
 |**Dual**|יִם◌ַ<sub><sup> ◌ ◌</sup></sub><br>`ayim`|י◌ֵ<sub><sup> ◌ ◌</sup></sub><br>`eh`|
+
+## Verb Conjugation and Aspect
+All verbs in Hebrew have a `root` (or `lexical entry`) comprised of three consonants. The primary task of Biblical Hebrew is determining which three consonants constitute the lexical entry and looking up that entry in the lexicon. Verb conjugation in Hebrew expresses person, gender, number, and aspect. These conjugations must be parsed to identify the lexical entry.
+
+### Aspect
+A verb's [grammatical `aspect`](https://en.wikipedia.org/wiki/Grammatical_aspect) inflects the degree to which the action is completed and, in Hebrew, can be perfect or imperfect. Generally speaking, imperfect is used for incomplete action and perfect for complete action.
+
+Conjugations in Biblical Hebrew do not inflect tense. Either aspect can be used in any tense. There are many ways to employ aspect in language; the following are just some English examples to illustrate the difference between _complete and incomplete_ action and shouldn't be taken prescriptively.
+
+||Perfect|Imperfect|
+|-|-|-|
+|Past|I killed|I was killing|
+|Present|I have killed|I kill|
+|Future|I will have killed|I will kill|
+
+### Conjugations
+> 🧠: All imperfect conjugations have at least a prefix. "Imperfect aren't perfect, so they need a prefix."
+
+#### Imperfect
+||Singular||Plural||
+|-|-|-|-|-|
+|**Person**|**Masculine**|**Feminine**|**Masculine**|**Feminine**|
+|**3rd**|◌ ◌ ◌ י<br>`he`|◌ ◌ ◌ ת<br>`she`|י ◌ ◌ ◌ וּ<br>`they`|ת ◌ ◌ ◌ נָה<br>`they`|
+|**2nd**|◌ ◌ ◌ ת<br>`you`|ת<sub><sup> ◌ ◌</sup></sub>◌ִי<br>`you`|ת ◌ ◌ ◌ וּ<br>`y'all`|ת ◌ ◌ ◌ נָה<br>`y'all`|
+|**1st**|◌ ◌ ◌ א<br>`I`||◌ ◌ ◌ נ<br>`we`|
+
+#### Perfect
+◌ ◌ ◌ 
+
+## Lexical Parsing
+Verb Chart parsing
+[INSERT Example Lexicon Entry]()
