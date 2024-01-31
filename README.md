@@ -106,6 +106,8 @@ Conjugations in Biblical Hebrew do not inflect tense. Either aspect can be used 
 |Future|I will have killed|I will kill|
 
 ### Conjugations
+Some conjugations are `common` and only have one entry shown (e.g., the 1st person and 3rd person plural).
+
 > 🧠: All imperfect conjugations have at least a prefix. "Imperfect aren't perfect, so they need a prefix."
 
 #### Imperfect
@@ -117,7 +119,12 @@ Conjugations in Biblical Hebrew do not inflect tense. Either aspect can be used 
 |**1st**|◌ ◌ ◌ א<br>`I`||◌ ◌ ◌ נ<br>`we`|
 
 #### Perfect
-◌ ◌ ◌ 
+||Singular||Plural||
+|-|-|-|-|-|
+|**Person**|**Masculine**|**Feminine**|**Masculine**|**Feminine**|
+|**3rd**|◌ ◌ ◌ <br>`he`|ה◌ָ<sub><sup> ◌ ◌</sup></sub><br>`she`|וּ ◌ ◌ ◌ <br>`they`||
+|**2nd**|תָ ◌ ◌ ◌ <br>`you`|תְ ◌ ◌ ◌ <br>`you`|תֶם ◌ ◌ ◌ <br>`y'all`|תֶן ◌ ◌ ◌ <br>`y'all`|
+|**1st**|תִי ◌ ◌ ◌ <br>`I`||נוּ ◌ ◌ ◌ <br>`we`|
 
 ## Lexical Parsing
 Verb Chart parsing
