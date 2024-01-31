@@ -106,17 +106,12 @@ Conjugations in Biblical Hebrew do not inflect tense. Either aspect can be used 
 |Future|I will have killed|I will kill|
 
 ### Conjugations
-Some conjugations are `common` and only have one entry shown (e.g., the 1st person and 3rd person plural).
+Some conjugations are `common` and only have one entry shown (e.g., the 1st person and 3rd person plural). Conjugations with multiple interpretations are color coordinated.
 
-> 🧠: All imperfect conjugations have at least a prefix. "Imperfect aren't perfect, so they need a prefix."
-
-#### Imperfect
-||Singular||Plural||
-|-|-|-|-|-|
-|**Person**|**Masculine**|**Feminine**|**Masculine**|**Feminine**|
-|**3rd**|◌ ◌ ◌ י<br>`he`|◌ ◌ ◌ ת<br>`she`|י ◌ ◌ ◌ וּ<br>`they`|ת ◌ ◌ ◌ נָה<br>`they`|
-|**2nd**|◌ ◌ ◌ ת<br>`you`|ת<sub><sup> ◌ ◌</sup></sub>◌ִי<br>`you`|ת ◌ ◌ ◌ וּ<br>`y'all`|ת ◌ ◌ ◌ נָה<br>`y'all`|
-|**1st**|◌ ◌ ◌ א<br>`I`||◌ ◌ ◌ נ<br>`we`|
+> 🧠: All imperfect conjugations have at least a prefix. "Imperfect aren't perfect, so they need a prefix."<br>
+> 🧠: וּ ,נ, and ◌ֶ are always plural.<br>
+> 🧠: נ is always at least feminine (could be common, see 1st person plural).<br>
+> 🧠: Perfect 3rd person singular is the same as the absolute singular noun endings.
 
 #### Perfect
 ||Singular||Plural||
@@ -126,6 +121,37 @@ Some conjugations are `common` and only have one entry shown (e.g., the 1st pers
 |**2nd**|תָ ◌ ◌ ◌ <br>`you`|תְ ◌ ◌ ◌ <br>`you`|תֶם ◌ ◌ ◌ <br>`y'all`|תֶן ◌ ◌ ◌ <br>`y'all`|
 |**1st**|תִי ◌ ◌ ◌ <br>`I`||נוּ ◌ ◌ ◌ <br>`we`|
 
+#### Imperfect
+||Singular||Plural||
+|-|-|-|-|-|
+|**Person**|**Masculine**|**Feminine**|**Masculine**|**Feminine**|
+|**3rd**|◌ ◌ ◌ י<br>`he`|◌ ◌ ◌ ת<br>`she` 🟡|י ◌ ◌ ◌ וּ<br>`they`|ת ◌ ◌ ◌ נָה<br>`they` 🔴|
+|**2nd**|◌ ◌ ◌ ת<br>`you` 🟡|ת<sub><sup> ◌ ◌</sup></sub>◌ִי<br>`you`|ת ◌ ◌ ◌ וּ<br>`y'all`|ת ◌ ◌ ◌ נָה<br>`y'all` 🔴|
+|**1st**|◌ ◌ ◌ א<br>`I`||◌ ◌ ◌ נ<br>`we`|
+
+<!--
+#### Imperfect
+||Singular||Plural||
+|-|-|-|-|-|
+|**Person**|**Masculine**|**Feminine**|**Masculine**|**Feminine**|
+|**3rd**|◌ ◌ ◌ י<br>`y-`|◌ ◌ ◌ ת<br>`t-`|י ◌ ◌ ◌ וּ<br>`y-u`|ת ◌ ◌ ◌ נָה<br>`t-nah`|
+|**2nd**|◌ ◌ ◌ ת<br>`t-`|ת<sub><sup> ◌ ◌</sup></sub>◌ִי<br>`t-iy`|ת ◌ ◌ ◌ וּ<br>`t-u`|ת ◌ ◌ ◌ נָה<br>`t-nah`|
+|**1st**|◌ ◌ ◌ א<br>||◌ ◌ ◌ נ<br>`n-`|
+
+#### Perfect
+||Singular||Plural||
+|-|-|-|-|-|
+|**Person**|**Masculine**|**Feminine**|**Masculine**|**Feminine**|
+|**3rd**|◌ ◌ ◌|ה◌ָ<sub><sup> ◌ ◌</sup></sub><br>`-ah`|וּ ◌ ◌ ◌ <br>`-u`||
+|**2nd**|תָ ◌ ◌ ◌ <br>`-ta`|תְ ◌ ◌ ◌ <br>`-t`|תֶם ◌ ◌ ◌ <br>`-tem`|תֶן ◌ ◌ ◌ <br>`-ten`|
+|**1st**|תִי ◌ ◌ ◌ <br>`-tey`||נוּ ◌ ◌ ◌ <br>`-nu`|
+
+||`he`|`she`|`they`|`they`|
+-->
+
 ## Lexical Parsing
-Verb Chart parsing
+Verb Chart parsing wiht missing letters
+
 [INSERT Example Lexicon Entry]()
+
+[ParseTrainer](https://parse.hebrewtools.org)
