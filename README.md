@@ -8,7 +8,7 @@
 [How to Type Hebrew](https://chioulaoshi.org/BH/typing.html)
 
 ## Alphabet
-Hebrew was originally written with just consonants. Some consonants change shape when appearing as the final consonant of a word. These are called `sofit`. Several sounds are repeated. The `dagesh` (dot) indicates [plosive](https://en.wikipedia.org/wiki/Plosive) sounds. Every 'ch' is guttural as in Ba*ch*. Hebrew is read right to left.
+Hebrew was originally written with just consonants. Some consonants [change appearance](https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/12/this-isnt-even-my-final-form.jpg) when written as the final consonant of a word. These are called `sofit`. Several sounds are repeated. The `dagesh` (dot) indicates [plosive](https://en.wikipedia.org/wiki/Plosive) sounds. Every 'ch' is guttural as in Ba*ch*. Hebrew is read right to left.
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/UiCzoTs1AdE)](https://youtu.be/UiCzoTs1AdE)
 
