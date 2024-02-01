@@ -1,7 +1,7 @@
 # Biblical Hebrew
 **Tips for Reading**
 
-> 🧠: Memory devices, called Mnemonics, are marked as shown here.
+> 🧠: Memory devices, called Mnemonics, are marked as shown here. They appear below things to memorize.
 
 `Vocabulary` is marked as shown here.
 
@@ -57,8 +57,6 @@ Hebrew was originally written with just consonants. Some consonants [change appe
 
 ## Vowels
 Vowels were pointed underneath the consonants after the fact by the Masoretes. The circles represent any consonant. Qamets and Qamets Hatuf are visually identical; however, Qamets Hatuf is rare. It is presumed that anciently long and short vowels were pronounced differently. This audible distinction can be ignored today, but knowing long and short vowels will be important for future grammar.
-> 🧠: The dominant vowel within every name, except Qamets Hatuf, is the sound that vowel makes (e.g., p**A**tah, ts**E**re, hir**I**q, h**O**lem, qibb**U**ts). <br>
-> 🧠: All the consonant vowels are long. 
 
 |Short<br>(Name)|Long<br>(Name)|Sound|Transliteration|
 |-|-|-|-|
@@ -67,6 +65,9 @@ Vowels were pointed underneath the consonants after the fact by the Masoretes. T
 |◌ִ<br>`Hiriq`|י◌ִ<br>`Hiriq Yod`|ee|i|
 |◌ָ<br>`Qamets Hatuf`|◌ֹ / וֹ<br>`Holem (Vav)`|oh|o|
 |◌ֻ<br>`Qibbuts`|וּ<br>`Shureq Vav`|oo|u|
+
+> 🧠: The dominant vowel within every name, except Qamets Hatuf, is the sound that vowel makes (e.g., p**A**tah, ts**E**re, hir**I**q, h**O**lem, qibb**U**ts). <br>
+> 🧠: All the consonant vowels are long. 
 
 ## Noun and Adjective Endings
 Nouns and adjectives agree in gender and number. Various endings express this agreement, including a set of `common` (agreeing for male and female) endings to represent two things. These `dual` agreements are commmonly used for things like body parts, of which there are two.
@@ -79,17 +80,18 @@ This following image demonstrate the difference between the construct and absolu
 
 Focus on the last example. The `maqqeph` (dash) has no pronounciation and simply connects related words. Notice how horse (סוס) changes from `iym` (abs., masc., pl.) to `eh` (cons., masc., pl.). Also note that translations can use apostrophe "s" or "of" without misrepresenting the Hebrew.
 
-> 🧠: The feminine singular sound is 'ah', which is common to romance languages.<br>
-> 🧠: In Hebrew, ה often changes to ת. <br>
-> 🧠: The masculine plural sound is 'iym' as in Elohim, which you may find familiar. It can literally translate to gods, but is often used as a [plural of majesty](https://en.wikipedia.org/wiki/Royal_we). <br>
-> 🧠: The dual sound is 'ah' + 'iym' or 'ayim', and could be thought of as combining fem. and masc. into a complete couple.
-
+### Chart
 ||Masculine||Feminine||
 |-|-|-|-|-|
 ||**Absolute**|**Construct**|**Absolute**|**Construct**|
 |**Singular**|◌ ◌ ◌|◌ ◌ ◌|ה◌ָ<sub><sup> ◌ ◌</sup></sub><br>`ah`|ת◌ַ<sub><sup> ◌ ◌</sup></sub><br>`at`|
 |**Plural**|ים◌ִ<sub><sup> ◌ ◌</sup></sub><br>`iym`|י◌ֵ<sub><sup> ◌ ◌</sup></sub><br>`eh`|וֹת<sub><sup> ◌ ◌ ◌</sup></sub><br>`ot`|וֹת<sub><sup> ◌ ◌ ◌</sup></sub><br>`ot`|
 |**Dual**|יִם◌ַ<sub><sup> ◌ ◌</sup></sub><br>`ayim`|י◌ֵ<sub><sup> ◌ ◌</sup></sub><br>`eh`|
+
+> 🧠: The feminine singular sound is 'ah', which is common to romance languages.<br>
+> 🧠: In Hebrew, ה often changes to ת. <br>
+> 🧠: The masculine plural sound is 'iym' as in Elohim, which you may find familiar. It can literally translate to gods, but is often used as a [plural of majesty](https://en.wikipedia.org/wiki/Royal_we). <br>
+> 🧠: The dual sound is 'ah' + 'iym' or 'ayim', and could be thought of as combining fem. and masc. into a complete couple.
 
 ## Verb Conjugation and Aspect
 All verbs in Hebrew have a `root` (or `lexical entry`) comprised of three consonants. *The primary task of Biblical Hebrew is determining which three consonants constitute the lexical entry* and looking up that entry in the lexicon. Verb conjugation in Hebrew expresses person, gender, number, and aspect. These conjugations must be parsed to identify the lexical entry.
@@ -153,7 +155,7 @@ Some conjugations are `common` and only have one entry shown (e.g., the 1st pers
 ||`he`|`she`|`they`|`they`|
 -->
 
-> 🧠: This is the procedure I follow, which gets me 78.9% of the way. I find 9 facts a lot easier to memorize than 76.
+> 🧠: This is the procedure I follow, which gets me 78.9% of the way.<br>(I find memorizing the 10 facts listed here way easier than the 76 in the chart.)
 > |Step #|Parsing Trick|
 > |-|-|
 > |1) Aspect|Imperfect aren't perfect, so they need a prefix.|
@@ -161,7 +163,9 @@ Some conjugations are `common` and only have one entry shown (e.g., the 1st pers
 > |3) Number|וּ ,נ, and ◌ֶ are plural.|
 > |4) Gender|נ is feminine.|
 > 
-> Memorize the person (usually first person) of the 5 `common` endings and this will work 100% of the time.
+> To get this working 100% of the time, memorize these additional 6 facts:
+> - The person (usually first person) of the 5 `common` endings.
+> - The gender of perfect 3rd person singular, which is identical to the absolute singular noun endings.
 
 ## Lexical Parsing
 Verb Chart parsing with missing letters
