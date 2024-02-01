@@ -1,11 +1,9 @@
 # Biblical Hebrew
-**Tips for Reading**
+<ins>**Tips for Reading**</ins>
 
-> 🧠: Memory devices, called Mnemonics, are marked as shown here. They appear below things to memorize.
-
-`Vocabulary` is marked as shown here.
-
-[How to Type Hebrew](https://chioulaoshi.org/BH/typing.html)
+1. [How to Type Hebrew](https://chioulaoshi.org/BH/typing.html)
+1. `Vocabulary` is marked as shown here.
+1. > 🧠: Memory devices, called Mnemonics, are marked as shown here. They appear below things to memorize.
 
 ## Alphabet
 Hebrew was originally written with just consonants. Some consonants [change appearance](https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/12/this-isnt-even-my-final-form.jpg) when written as the final consonant of a word. These are called `sofit`. Several sounds are repeated. The `dagesh` (dot) indicates [plosive](https://en.wikipedia.org/wiki/Plosive) sounds. Every 'ch' is guttural as in Ba*ch*. Hebrew is read right to left.
