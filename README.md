@@ -165,7 +165,7 @@ Some conjugations are `common` and only have one entry shown (e.g., the 1st pers
 > 
 > To get this working 100% of the time, memorize these additional 6 facts:
 > - The person (usually first person) of the 5 `common` endings.
-> - The gender of perfect 3rd person singular, which is identical to the absolute singular noun endings.
+> - The gender of perfect 3rd person singular, which is identical to the [absolute singular noun endings](https://github.com/Minimistro32/biblical-hebrew/blob/main/README.md#chart).
 
 ## Lexical Parsing
 Verb Chart parsing with missing letters
