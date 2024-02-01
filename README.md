@@ -157,11 +157,11 @@ Some conjugations are `common` and only have one entry shown (e.g., the 1st pers
 > |Step #|Parsing Trick|
 > |-|-|
 > |1) Aspect|Imperfect aren't perfect, so they need a prefix.|
-> |2) Person|Lonely ת, is 2nd person <sup><sub>(or Fem. 3rd)</sub></sup>.|
+> |2) Person|ת is 2nd person <sup><sub>(or Fem. 3rd)</sub></sup>.|
 > |3) Number|וּ ,נ, and ◌ֶ are plural.|
-> |4) Gender|נ is feminine.|
+> |4) Gender|Feminine are תְ / ◌ִי / נ or neat (`n`/`-iy`/`-t`).|
 > 
-> To get this working 100% of the time, memorize these additional 6 facts:
+> To get this working 100% of the time, memorize these additional 6 facts, which override the procedure:
 > - The person (usually first person) of the 5 `common` endings.
 > - The gender of perfect 3rd person singular, which is identical to the [absolute singular noun endings](https://github.com/Minimistro32/biblical-hebrew/blob/main/README.md#chart).
 
