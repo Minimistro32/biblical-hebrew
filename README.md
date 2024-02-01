@@ -108,12 +108,14 @@ Conjugations in Biblical Hebrew do not inflect tense. Either aspect can be used 
 ### Conjugations
 Some conjugations are `common` and only have one entry shown (e.g., the 1st person and 3rd person plural). Conjugations with multiple interpretations are color coordinated.
 
+<!--
 > 🧠: All imperfect conjugations have at least a prefix. "Imperfect aren't perfect, so they need a prefix."<br>
 > 🧠: וּ ,נ, and ◌ֶ are always plural.<br>
 > 🧠: נ is always at least feminine (could be common, see 1st person plural).<br>
 > 🧠: First person is common.<br>
 > 🧠: Perfect 3rd person singular is the same as the absolute singular noun endings.<br>
-
+> 🧠: Tav is usually 2nd person.
+-->
 
 #### Perfect
 ||Singular||Plural||
@@ -151,8 +153,18 @@ Some conjugations are `common` and only have one entry shown (e.g., the 1st pers
 ||`he`|`she`|`they`|`they`|
 -->
 
+> 🧠: This is the procedure I follow, which gets me 78.9% of the way. I find 9 facts a lot easier to memorize than 76.
+> |Step #|Parsing Trick|
+> |-|-|
+> |1) Aspect|Imperfect aren't perfect, so they need a prefix.|
+> |2) Person|Lonely ת, is 2nd person <sup><sub>(or Fem. 3rd)</sub></sup>.|
+> |3) Number|וּ ,נ, and ◌ֶ are plural.|
+> |4) Gender|נ is feminine.|
+> 
+> Memorize the person (usually first person) of the 5 `common` endings and this will work 100% of the time.
+
 ## Lexical Parsing
-Verb Chart parsing wiht missing letters
+Verb Chart parsing with missing letters
 
 [INSERT Example Lexicon Entry]()
 
