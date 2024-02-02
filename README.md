@@ -92,7 +92,7 @@ Focus on the last example. The `maqqeph` (dash) has no pronounciation and simply
 > 🧠: The dual sound is 'ah' + 'iym' or 'ayim', and could be thought of as combining fem. and masc. into a complete couple.
 
 ## Verb Conjugation and Aspect
-All verbs in Hebrew have a `root` (or `lexical entry`) comprised of three consonants. *The primary task of Biblical Hebrew is determining which three consonants constitute the lexical entry* and looking up that entry in the lexicon. Verb conjugation in Hebrew expresses person, gender, number, and aspect. These conjugations must be parsed to identify the lexical entry.
+All verbs in Hebrew have a `root` (or `lexical entry`) comprised of three consonants. *The primary task of Biblical Hebrew is determining which three consonants constitute the lexical entry* and looking up that entry in the lexicon. Verb conjugations in Hebrew express person, gender, number, and aspect. These conjugations must be parsed to identify the lexical entry.
 
 ### Aspect
 A verb's [grammatical `aspect`](https://en.wikipedia.org/wiki/Grammatical_aspect) inflects the degree to which the action is completed and, in Hebrew, can be perfect or imperfect. Generally speaking, imperfect is used for incomplete action and perfect for complete action.
