@@ -133,26 +133,6 @@ Some conjugations are `common` and only have one entry shown (e.g., the 1st pers
 |**2nd**|◌ ◌ ◌ ת<br>`you` 🟡|ת<sub><sup> ◌ ◌</sup></sub>◌ִי<br>`you`|ת ◌ ◌ ◌ וּ<br>`y'all`|ת ◌ ◌ ◌ נָה<br>`y'all` 🔴|
 |**1st**|◌ ◌ ◌ א<br>`I`||◌ ◌ ◌ נ<br>`we`|
 
-<!--
-#### Imperfect
-||Singular||Plural||
-|-|-|-|-|-|
-|**Person**|**Masculine**|**Feminine**|**Masculine**|**Feminine**|
-|**3rd**|◌ ◌ ◌ י<br>`y-`|◌ ◌ ◌ ת<br>`t-`|י ◌ ◌ ◌ וּ<br>`y-u`|ת ◌ ◌ ◌ נָה<br>`t-nah`|
-|**2nd**|◌ ◌ ◌ ת<br>`t-`|ת<sub><sup> ◌ ◌</sup></sub>◌ִי<br>`t-iy`|ת ◌ ◌ ◌ וּ<br>`t-u`|ת ◌ ◌ ◌ נָה<br>`t-nah`|
-|**1st**|◌ ◌ ◌ א<br>||◌ ◌ ◌ נ<br>`n-`|
-
-#### Perfect
-||Singular||Plural||
-|-|-|-|-|-|
-|**Person**|**Masculine**|**Feminine**|**Masculine**|**Feminine**|
-|**3rd**|◌ ◌ ◌|ה◌ָ<sub><sup> ◌ ◌</sup></sub><br>`-ah`|וּ ◌ ◌ ◌ <br>`-u`||
-|**2nd**|תָ ◌ ◌ ◌ <br>`-ta`|תְ ◌ ◌ ◌ <br>`-t`|תֶם ◌ ◌ ◌ <br>`-tem`|תֶן ◌ ◌ ◌ <br>`-ten`|
-|**1st**|תִי ◌ ◌ ◌ <br>`-tey`||נוּ ◌ ◌ ◌ <br>`-nu`|
-
-||`he`|`she`|`they`|`they`|
--->
-
 > 🧠: This is the procedure I follow, which gets me 78.9% of the way.<br>(I find memorizing the 10 facts listed here way easier than the 76 in the chart.)
 > |Step #|Parsing Trick|
 > |-|-|
@@ -170,9 +150,8 @@ Parsing a verb begins by identifying the three consonants which comprise the lex
 
 <img src="https://raw.githubusercontent.com/Minimistro32/biblical-hebrew/main/Verb%20Parsing.png" width=500rem/>
 
-
 Once you've found the lexical entry or root, look it up in the lexicon. We use "A Concise Hebrew and Aramaic Lexicon of the Old Testament" by William L. Holladay. The following image illustrates where to find relevant information in the lexicon.
 
 <img src="https://github.com/Minimistro32/biblical-hebrew/blob/main/Lexicon%20Example.png?raw=true" width=700rem/>
 
-You can practice parsing verbs with the [ParseTrainer](https://parse.hebrewtools.org).
+> 🧠: Practice parsing verbs with the [ParseTrainer](https://parse.hebrewtools.org).
