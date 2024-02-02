@@ -74,7 +74,7 @@ Nouns can be chained together using construct endings. The chain always ends wit
 
 This following image demonstrate the difference between the construct and absolute forms of four masculine plural word examples. Stand-alone absolute forms are shown in the right column. Construct forms are demostrated on the left beginning each phrase.
 
-![Construct Chain Example](https://hebrew4christians.com/Grammar/Unit_Four/The_Construct_Relation/mpconstructexamples.gif)
+![Construct Chain Example](https://hebrew4christians.com/Grammar/Unit_Four/The_Construct_Relation/mpconstructexamples1.gif)
 
 Focus on the last example. The `maqqeph` (dash) has no pronounciation and simply connects related words. Notice how horse (סוס) changes from `iym` (abs., masc., pl.) to `eh` (cons., masc., pl.). Also note that translations can use apostrophe "s" or "of" without misrepresenting the Hebrew.
 
