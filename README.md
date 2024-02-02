@@ -166,9 +166,10 @@ Some conjugations are `common` and only have one entry shown (e.g., the 1st pers
 > - The gender of perfect 3rd person singular, which is identical to the [absolute singular noun endings](https://github.com/Minimistro32/biblical-hebrew/blob/main/README.md#chart).
 
 ## Lexical Parsing
-Parsing a verb begins by identifying the three consonants which comprise the lexical root. Some verbs will lose consonants as they are conjugated. This image illustrates where consonsants commonly drop off from and what they may leave behind.
+Parsing a verb begins by identifying the three consonants which comprise the lexical root. Some verbs will lose consonants as they are conjugated. This image illustrates where consonsants commonly drop off and what evidence they may leave behind.
 
-<img src="https://github.com/Minimistro32/biblical-hebrew/blob/main/Verb%20Parsing.png?raw=true" width=500rem/>
+<img src="https://raw.githubusercontent.com/Minimistro32/biblical-hebrew/main/Verb%20Parsing.png" width=500rem/>
+
 
 Once you've found the lexical entry or root, look it up in the lexicon. We use "A Concise Hebrew and Aramaic Lexicon of the Old Testament" by William L. Holladay. The following image illustrates where to find relevant information in the lexicon.
 
