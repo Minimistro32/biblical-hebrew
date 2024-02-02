@@ -1,5 +1,5 @@
 # Biblical Hebrew
-<ins>**Tips for Reading**</ins>
+<ins>**Tips for the Reader**</ins>
 
 1. [How to Type Hebrew](https://chioulaoshi.org/BH/typing.html)
 1. `Vocabulary` is marked as shown here.
@@ -74,7 +74,7 @@ Nouns can be chained together using construct endings. The chain always ends wit
 
 This following image demonstrate the difference between the construct and absolute forms of four masculine plural word examples. Stand-alone absolute forms are shown in the right column. Construct forms are demostrated on the left beginning each phrase.
 
-![Construct Chain Example](https://hebrew4christians.com/Grammar/Unit_Four/The_Construct_Relation/mpconstructexamples1.gif)
+![Construct Chain Example](https://hebrew4christians.com/Grammar/Unit_Four/The_Construct_Relation/mpconstructexamples.gif)
 
 Focus on the last example. The `maqqeph` (dash) has no pronounciation and simply connects related words. Notice how horse (סוס) changes from `iym` (abs., masc., pl.) to `eh` (cons., masc., pl.). Also note that translations can use apostrophe "s" or "of" without misrepresenting the Hebrew.
 
@@ -148,10 +148,14 @@ Some conjugations are `common` and only have one entry shown (e.g., the 1st pers
 ## Lexical Parsing
 Parsing a verb begins by identifying the three consonants which comprise the lexical root. Some verbs will lose consonants as they are conjugated. This image illustrates where consonsants commonly drop off and what evidence they may leave behind.
 
+Take תִּתֵּן as an example. We must decide which of the three belong to the lexical root. You may tempted to interpret it as pf. 3MS (perfect 3rd masculine singular). An astute parser will notice the first tav could be an imperfect prefix and pause. Ultimately, the tsere gives us evidence that a consonant may have jumped ship, in this case a yod. Thus, the correct parsing is ipf. 2ms (or 3fs depending on context). 
+
 <img src="https://raw.githubusercontent.com/Minimistro32/biblical-hebrew/main/Verb%20Parsing.png" width=500rem/>
+
+> 🧠: A student can, and may have already, appropriately associate י (yod) with the 'eh' sound and ו (vav) with the 'oh' sound. This is easily remembered by considering the similar mouth shape used to produce these consonant vowel pairs.
 
 Once you've found the lexical entry or root, look it up in the lexicon. We use "A Concise Hebrew and Aramaic Lexicon of the Old Testament" by William L. Holladay. The following image illustrates where to find relevant information in the lexicon.
 
 <img src="https://github.com/Minimistro32/biblical-hebrew/blob/main/Lexicon%20Example.png?raw=true" width=700rem/>
 
-> 🧠: Practice parsing verbs with the [ParseTrainer](https://parse.hebrewtools.org).
+> 🧠: Practice parsing verbs with [ParseTrainer](https://parse.hebrewtools.org).
