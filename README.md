@@ -159,3 +159,15 @@ Once you've found the lexical entry or root, look it up in the lexicon. We use "
 <img src="https://github.com/Minimistro32/biblical-hebrew/blob/main/Lexicon%20Example.png?raw=true" width=700rem/>
 
 > 🧠: Practice parsing verbs with [ParseTrainer](https://parse.hebrewtools.org).
+
+## Pronominal Suffix
+Possessive pronoun when connected to noun. Otherwise objective pronoun.
+
+||Masculine||Feminine||
+|-|-|-|-|-|
+|**Person**|**Singular**|**Plural**|**Singular**|**Plural**|
+|**3rd**|וֹ `him/his`|`them/their`|ה◌ָ`her`|ן `them/their`<br>Nun/Hay(segol)|
+|**2nd**|תָ ◌ ◌ ◌ <br>`you`|תְ ◌ ◌ ◌ <br>`you`|תֶם ◌ ◌ ◌ <br>`y'all`|תֶן ◌ ◌ ◌ <br>`y'all`|
+|**1st**|תִי ◌ ◌ ◌ <br>`I`||נוּ ◌ ◌ ◌ <br>`we`|
+
+## Dagesh
