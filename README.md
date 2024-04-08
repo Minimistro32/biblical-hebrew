@@ -171,3 +171,65 @@ Possessive pronoun when connected to noun. Otherwise objective pronoun.
 |**1st**|תִי ◌ ◌ ◌ <br>`I`||נוּ ◌ ◌ ◌ <br>`we`|
 
 ## Dagesh
+
+
+# [Jewish Culture](https://www.chabad.org/)
+
+## Kosher
+Food that is fit or proper for Jewish people to eat.
+1. Not all animals are kosher. (Leviticus 11)
+    - Fish need fin and scales.
+    - Mammals must chew their cud and have split hooves, which makes their milk kosher also.
+    - Chicken, turkey, duck, and eggs are kosher.
+1. Kosher anmials must be prepared in a special way.
+1. Meat and dairy must never be mixed.
+
+## Holidays
+All holidays start at sundown the night before.
+
+[Candle lighting](https://www.chabad.org/library/article_cdo/aid/114392/jewish/Holiday-Candle-Lighting-Procedure.htm). Candles can't be lit or extinguished (including matches) during the holiday, but pilot lights are allowed. Words of blessing are shared with variations for each holiday by each person lighting a candle. Candles are not lit on Hanukkah or Purim. Tradition holds that women light the candles, as they are reponsibile for nurturing and the symbolic light within the home. Matriarch does all the candles, but custom has every other woman or girl do one themselves.
+
+### [Rosh Hashanah](https://www.chabad.org/library/article_cdo/aid/4644/jewish/Rosh-Hashanah.htm)
+
+### Yom Kippur
+Commemorates the day Moses came down from the mountain or the [Day of Atonement](https://www.churchofjesuschrist.org/study/scriptures/bd/fasts?id=p3&lang=eng#p3).
+
+Highlights:
+- No work.
+- Candle Lighting.
+- A day of personal fasting, "ye shall afflict your souls" (Leviticus 16:31)
+  - Traditional suggestions include avoiding: food or drink
+  - lotions or creams
+  - washing or bathing
+  - conjugal relations
+  - and leather shoes.
+
+### Passover (Pesach)
+Commemorates the anniversary of our miraculous Exodus from Egyptian slavery. Lasts 7 days in Israel and 8 in the diaspora. During the passover, Jews may not own or consume chametz, anything containing grain that has risen. Chametz is sold and donated to charity or burned.
+
+- Seder
+- candle lighting
+- 15 step feast, center around the Exodus story telling
+
+Highlights:
+- Drinking four cups of grape juice
+- dipping veggies into saltwater for appetizer
+- children ask the four questions
+- eating matzah (Cracker like food, to remember how our ancestors left Egypt without time to all bread to rise)
+- eating bitter herbs,
+- singing late into the night
+
+### [Hanukkah](https://www.chabad.org/holidays/chanukah/article_cdo/aid/102911/jewish/What-Is-Hanukkah.htm)
+
+### Shavuot
+Derived from Leviticus 23:15. Celebrated 7 weeks from passover to commemorate recieving the 10 commandments.
+
+- Candle lighting.
+- No work.
+- Eat Dairy Foods. Because it was Shabbat that day, they couldn't kill slaughter animals so they ate dairy.
+  - Cheese Blintzes
+  - Quiche
+  - Cheesecake
+  - Ice Cream
+- Staying up late to learn Torah.
+- Read 10 Commandments.
