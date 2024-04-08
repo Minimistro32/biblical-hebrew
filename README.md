@@ -208,7 +208,7 @@ Highlights:
 Commemorates the anniversary of our miraculous Exodus from Egyptian slavery. Lasts 7 days in Israel and 8 in the diaspora. During the passover, Jews may not own or consume chametz, anything containing grain that has risen. Chametz is sold and donated to charity or burned.
 
 - Seder
-- candle lighting
+- Candle lighting
 - 15 step feast, center around the Exodus story telling
 
 Highlights:
@@ -222,9 +222,9 @@ Highlights:
 ### [Hanukkah](https://www.chabad.org/holidays/chanukah/article_cdo/aid/102911/jewish/What-Is-Hanukkah.htm)
 
 ### Shavuot
-Derived from Leviticus 23:15. Celebrated 7 weeks from passover to commemorate recieving the 10 commandments.
+Means "weeks", derived from Leviticus 23:15. Celebrated 7 weeks from passover to commemorate recieving the 10 commandments.
 
-- Candle lighting.
+- Candle lighting for candle-lit dinner.
 - No work.
 - Eat Dairy Foods. Because it was Shabbat that day, they couldn't kill slaughter animals so they ate dairy.
   - Cheese Blintzes
