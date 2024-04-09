@@ -32,7 +32,7 @@ Translated by Tyson Freeze
 
 15\) And the angel of Jehovah called to Avraham a second time from the heavens.
 
-16\) And he said, "I myself swear – the utterance of Jehovah – because you did this thing and withheld not your son, your only
+16\) And he said, "I myself swear – the utterance of Jehovah – because you did this thing and withheld not your son, your only,
 
 17\) surely blessing, I will bless you; and multiplying, I will multiply your seed like the stars of the heavens and like the sand on the edge of the sea. And your seed will possess the gate of his enemies.
 
