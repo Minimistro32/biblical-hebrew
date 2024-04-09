@@ -172,6 +172,14 @@ Possessive pronoun when connected to noun. Otherwise objective pronoun.
 
 ## Dagesh
 
+## [Verb Stems](https://uhg.readthedocs.io/en/latest/stem.html)
+
+| | Active Voice       | Passive Voice | Reflexive Voice |
+|--------------------|---------------|-----------------|-|
+| Simple Action      | Qal stem      | Niphal stem     | –             |
+| Causative Action   | Hiphil stem   | Hophal stem     | –             |
+| Resultative Action | Piel stem     | Pual stem       | Hithpael stem |
+
 
 # [Jewish Culture](https://www.chabad.org/)
 
