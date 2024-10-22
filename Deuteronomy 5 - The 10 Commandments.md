@@ -14,7 +14,7 @@ Translated by Tyson Freeze
 
 6\) I, Jehovah, *am* your god, which made you come out from the land of Egypt, out of a house of slaves.
 
-7\) You shall not have other gods over over my faces.
+7\) You shall not have other gods over my faces.
 
 8\) You shall not make yourselves an idol, of any form which *is* in the heavens above, or in the earth below, or in the waters under the earth. 
 
