@@ -65,7 +65,13 @@ Vowels were pointed underneath the consonants after the fact by the Masoretes. T
 |◌ֻ<br>`Qibbuts`|וּ<br>`Shureq Vav`|oo|u|
 
 > 🧠: The dominant vowel within every name, except the rare Qamets Hatuf, is the sound that vowel makes (e.g., p**A**tah, ts**E**re, hir**I**q, h**O**lem, qibb**U**ts). <br>
-> 🧠: All the consonant vowels are long. 
+> 🧠: All the consonant vowels are long.
+> 🧠: The Qamets Hatuf occurs most commonly in the word for all, כֹּל (Deut 6:5).
+
+## Shewa
+The shewa can be silent to divide syllables, or pronounced. It is NOT pronounced when immediately proceded by a short vowel.
+
+![Shewa Example](https://hebrew4christians.com/Grammar/Unit_Two/The_Sheva/sheva-type.gif)
 
 ## Noun and Adjective Endings
 Nouns and adjectives agree in gender and number. Various endings express this agreement, including a set of `common` (agreeing for male and female) endings to represent two things. These `dual` agreements are commmonly used for things like body parts, of which there are two.
@@ -171,6 +177,7 @@ Possessive pronoun when connected to noun. Otherwise objective pronoun.
 |**1st**|תִי ◌ ◌ ◌ <br>`I`||נוּ ◌ ◌ ◌ <br>`we`|
 
 ## Dagesh
+???
 
 ## [Verb Stems](https://uhg.readthedocs.io/en/latest/stem.html)
 
