@@ -68,8 +68,8 @@ Vowels were pointed underneath the consonants after the fact by the Masoretes. T
 > 🧠: All the consonant vowels are long. <br>
 > 🧠: The Qamets Hatuf occurs most commonly in the word for all, כֹּל (Deut 6:5).
 
-## Shewa
-The shewa can be silent to divide syllables, or pronounced. It is NOT pronounced when immediately proceded by a short vowel.
+## Shva
+The shva is another Msorete pointing. It can be silent to divide syllables, or pronounced. It is NOT pronounced when immediately proceded by a short vowel.
 
 ![Shewa Example](https://hebrew4christians.com/Grammar/Unit_Two/The_Sheva/sheva-type.gif)
 
@@ -189,7 +189,7 @@ Possessive pronoun when connected to noun. Otherwise objective pronoun.
 | Resultative Action | Piel stem     | Pual stem       | Hithpael stem |
 
 ### Pointing
-
+???
 
 # [Jewish Culture](https://www.chabad.org/)
 
