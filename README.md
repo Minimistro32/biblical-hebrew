@@ -65,7 +65,7 @@ Vowels were pointed underneath the consonants after the fact by the Masoretes. T
 |◌ֻ<br>`Qibbuts`|וּ<br>`Shureq Vav`|oo|u|
 
 > 🧠: The dominant vowel within every name, except the rare Qamets Hatuf, is the sound that vowel makes (e.g., p**A**tah, ts**E**re, hir**I**q, h**O**lem, qibb**U**ts). <br>
-> 🧠: All the consonant vowels are long.
+> 🧠: All the consonant vowels are long. <br>
 > 🧠: The Qamets Hatuf occurs most commonly in the word for all, כֹּל (Deut 6:5).
 
 ## Shewa
