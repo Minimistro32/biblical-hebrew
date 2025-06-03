@@ -199,7 +199,7 @@ Food that is fit or proper for Jewish people to eat.
     - Fish need fin and scales.
     - Mammals must chew their cud and have split hooves, which makes their milk kosher also.
     - Chicken, turkey, duck, and eggs are kosher.
-1. Kosher anmials must be prepared in a special way.
+1. Kosher animals must be prepared in a special way.
 1. Meat and dairy must never be mixed.
 
 ## Holidays
